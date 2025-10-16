@@ -1,9 +1,9 @@
 # Oihan Urbeltz
 ## Estudiante de [Cuatrovientos](https://cuatrovientos.org)
 Actualmente estudiando
--Visual Basic
--Java
--HTML
+- Visual Basic
+- Java
+- HTML
 
 <!--
 **oiihann95/oiihann95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
